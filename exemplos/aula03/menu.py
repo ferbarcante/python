@@ -4,9 +4,9 @@ opcao = input('Excolha uma opção: ')
 
 if opcao == '1':
      print('guilherme')
-if opcao == '2':
+elif opcao == '2':
     print('joão')
-if opcao == '3':
+elif opcao == '3':
     print('maria')
 else:
     print('opção inválida')
